@@ -1,5 +1,4 @@
-// main.h
-int var;
+// foo.h
 
 int foo(int b) {
   if (b > 2)

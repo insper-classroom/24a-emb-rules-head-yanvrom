@@ -1,5 +1,5 @@
 // main.c
-#include "main.h"
+#include "foo.h"
 
 int main(void) {
   int a = foo(12);
